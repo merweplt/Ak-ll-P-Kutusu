@@ -45,3 +45,5 @@ Toplantı yapılarak Uygulama fikrine karar verilmiştir.
 
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Goggle Meet üzerinden yapılmasına karar verilmiştir.
 *Daily Scrum toplantısı link örneği :https://meet.google.com/bqg-uzua-vbb
+
+
