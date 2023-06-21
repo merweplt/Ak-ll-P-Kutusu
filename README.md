@@ -36,7 +36,7 @@ Hedefimiz gıda ve sağlık sektörlerinde bilinçli tüketim ve üretim, geri d
  ## Juriye Not 
  Takım arkadaşalrımıza ulaşmayı bekledik 2 takım arakadaşımız tarafından ulaşmaya çalıştık .  
  Bu bize zamana kaybettirdi. Kalan gün içinde fikre karar verildi. Sprint 2 de kod kısmında hızlanma olacaktır.
- # SPRİNT 
+ # SPRİNT 1
 ## Sprint Review:
 Toplantı yapılarak Uygulama fikrine karar verilmiştir.
 ## Sprint Retrospektifi:
