@@ -34,7 +34,7 @@ Hedefimiz gıda ve sağlık sektörlerinde bilinçli tüketim ve üretim, geri d
  *Gıda Sektörü <br>
  *Sağlık Sektörü <br>
  ## Juriye Not 
- Takım arkadaşalrımıza ulaşmayı bekledik 2 takım arakadaşımız tarafından ulaşmaya çalıştık .  
+ Takım arkadaşalrımıza ulaşmayı bekledik 2 takım arakadaşımız tarafından ulaşmaya çalıştık . Bu tarih bazında şuan ben dahil 3 kişi olarak devam edıyoruz. 
  Bu bize zamana kaybettirdi. Kalan gün içinde fikre karar verildi. Sprint 2 de kod kısmında hızlanma olacaktır.
  # SPRİNT 1
 ## Sprint Review:
@@ -45,5 +45,12 @@ Toplantı yapılarak Uygulama fikrine karar verilmiştir.
 
 Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Goggle Meet üzerinden yapılmasına karar verilmiştir.
 *Daily Scrum toplantısı link örneği :https://meet.google.com/bqg-uzua-vbb
+
+ # SPRİNT 2
+ *Sprint 2 tarihlerinde takımdaki developer arkadaşlar ile büyük bir iletişim sıkıntısı yaşadım.Asla grub içinde yer alann mesajlara cevap alamadım.Bu kısımda onları bekledim Sprint 3 tarihine kadar hiç bir görevleri yerine getirmediler. 2 kişiye zaten hiç ulaşamadık. Benim ulaştığım 2 kişide şuan yoklar.Bu yüzden tek devam ettim kalan süreci.
+
+ # SPRİNT 3
+ *Burda kendi bilgilerim doğrultusunda karar vererek maalesef bootcamp başında karar verdiğimiz akıllı çöp kutusu fikrini değiştirmek zorunda kaldım ve todo uygulaması yapmaya karar verdim.
+ 
 
 
