@@ -1,5 +1,5 @@
 ## TODO UYGULAMASI
-## Akıllı Çöp Kutusu( eski uygulama fikrim Spirnt 1 konusu)
+## Akıllı Çöp Kutusu( eski uygulama fikrim Sprint 1 konusu)
 ## OAU-F137
 Takım Flutter 137 <br>
 oyun ve uygulama akademisi kapsamında geliştirdiğimiz mobil uygulamamız
