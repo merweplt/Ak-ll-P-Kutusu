@@ -1,4 +1,4 @@
-#TODO UYGULAMASI
+##TODO UYGULAMASI
 ## Akıllı Çöp Kutusu( eski uygulama fikrim)
 ## OAU-F137
 Takım Flutter 137 <br>
