@@ -1,4 +1,5 @@
-# Akıllı Çöp Kutusu
+#TODO UYGULAMASI
+## Akıllı Çöp Kutusu( eski uygulama fikrim)
 ## OAU-F137
 Takım Flutter 137 <br>
 oyun ve uygulama akademisi kapsamında geliştirdiğimiz mobil uygulamamız
@@ -36,6 +37,7 @@ Hedefimiz gıda ve sağlık sektörlerinde bilinçli tüketim ve üretim, geri d
  ## Juriye Not 
  Takım arkadaşalrımıza ulaşmayı bekledik 2 takım arakadaşımız tarafından ulaşmaya çalıştık . Bu tarih bazında şuan ben dahil 3 kişi olarak devam edıyoruz. 
  Bu bize zamana kaybettirdi. Kalan gün içinde fikre karar verildi. Sprint 2 de kod kısmında hızlanma olacaktır.
+ *güncelleme: ulaştığım iki kişide bootcamp sürecinde ne yazıkki projeyi bıraktı(sprint2 tarihinde)
  # SPRİNT 1
 ## Sprint Review:
 Toplantı yapılarak Uygulama fikrine karar verilmiştir.
