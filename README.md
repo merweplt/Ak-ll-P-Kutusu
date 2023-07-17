@@ -5,7 +5,7 @@ Takım Flutter 137 <br>
 oyun ve uygulama akademisi kapsamında geliştirdiğimiz mobil uygulamamız
 
 ## Takım Elemanları
-. MERVE POLAT-Scrum Master <br>
+. MERVE POLAT-Scrum Master-Developer-Product Owner <br>
 . MEHMET TAYYİP KOÇAK-Aktif Olmayan Üye<br>
 . ÜMİT ŞİMŞEK- Aktif Olmayan Üye<br>
 . BUSE MAĞDEN-Aktif Olmayan üye <br>
