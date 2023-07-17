@@ -51,6 +51,7 @@ Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Goggle
 
  # SPRİNT 3
  *Burda kendi bilgilerim doğrultusunda karar vererek maalesef bootcamp başında karar verdiğimiz akıllı çöp kutusu fikrini değiştirmek zorunda kaldım ve todo uygulaması yapmaya karar verdim.
+![4b89e327-1fc2-4854-a816-2f5153f474e9](https://github.com/merweplt/AkilliCopKutusuUygulamasi/assets/134939764/c4d00b1d-c001-4449-a139-f0581c79fc70)
  
 
 
