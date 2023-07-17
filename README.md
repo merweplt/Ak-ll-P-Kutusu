@@ -5,8 +5,8 @@ oyun ve uygulama akademisi kapsamında geliştirdiğimiz mobil uygulamamız
 
 ## Takım Elemanları
 . MERVE POLAT-Scrum Master <br>
-. MEHMET TAYYİP KOÇAK-Product Owner <br>
-. ÜMİT ŞİMŞEK-Developer <br>
+. MEHMET TAYYİP KOÇAK-Aktif Olmayan Üye<br>
+. ÜMİT ŞİMŞEK- Aktif Olmayan Üye<br>
 . BUSE MAĞDEN-Aktif Olmayan üye <br>
 . LALE TATLI-Aktif Olmayan üye <br>
  # Ürün İsmi
