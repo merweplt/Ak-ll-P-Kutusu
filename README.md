@@ -15,6 +15,8 @@ oyun ve uygulama akademisi kapsamında geliştirdiğimiz mobil uygulamamız
 
 ## Ürün Açıklaması
 **bu kısım sprint 2 ve 3 de değişen durumlardan ötürü uyumsuz gözükebilir , ama süreci anlamanız dolayısıyla değiştirmeme kararı aldım.**
+
+
 Akıllı çöp kutusu ile yiyecek ve kullanılan diğer materyallerin takibi.
 
 Günlük hayatta yediğimiz ve kullandığımız ürünlerin evdeki eksikliğini belirlemek, sağlık durumu açısından düzensiz beslenmeyi önlemek ve geri dönüşüm için ayrıştırmada kolaylık sağlamak.
