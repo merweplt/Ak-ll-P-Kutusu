@@ -10,10 +10,10 @@ oyun ve uygulama akademisi kapsamında geliştirdiğimiz mobil uygulamamız
 . BUSE MAĞDEN-Aktif Olmayan üye <br>
 . LALE TATLI-Aktif Olmayan üye <br>
  # Ürün İsmi
-  Akıllı Çöp Kutusu
+  ToDo Uygulaması(Akıllı Çöp Kutusu eski fikrimizdi Sprint 2 v 3 de bahsettiğim olaydan ötürü değiştirdik.
 
 ## Ürün Açıklaması
-
+**bu kısım sprint 2 ve 3 de değişen durumlardan ötürü uyumsuz gözükebilir , ama süreci anlamanız dolayısıyla değiştirmeme kararı aldım.**
 Akıllı çöp kutusu ile yiyecek ve kullanılan diğer materyallerin takibi.
 
 Günlük hayatta yediğimiz ve kullandığımız ürünlerin evdeki eksikliğini belirlemek, sağlık durumu açısından düzensiz beslenmeyi önlemek ve geri dönüşüm için ayrıştırmada kolaylık sağlamak.
@@ -47,9 +47,11 @@ Daily Scrum: Daily Scrum toplantılarının zamansal sebeplerden ötürü Goggle
 *Daily Scrum toplantısı link örneği :https://meet.google.com/bqg-uzua-vbb
 
  # SPRİNT 2
- *Sprint 2 tarihlerinde takımdaki developer arkadaşlar ile büyük bir iletişim sıkıntısı yaşadım.Asla grub içinde yer alann mesajlara cevap alamadım.Bu kısımda onları bekledim Sprint 3 tarihine kadar hiç bir görevleri yerine getirmediler. 2 kişiye zaten hiç ulaşamadık. Benim ulaştığım 2 kişide şuan yoklar.Bu yüzden tek devam ettim kalan süreci.
+ **JURİ ÖZEL NOT**
+ *Sprint 2 tarihlerinde takımdaki developer arkadaşlar ile büyük bir iletişim sıkıntısı yaşadım.Asla grub içinde yer alann mesajlara cevap alamadım.Bu kısımda (SPRİNT 2)onları bekledim Sprint 3 tarihine kadar hiç bir görevleri yerine getirmediler. 2 kişiye zaten hiç ulaşamadık. Benim ulaştığım 2 kişide şu tarihlerde yoklardı .Bu yüzden tek devam ettim kalan süreci.
 
  # SPRİNT 3
+ **JURİ ÖZEL NOT**
  *Burda kendi bilgilerim doğrultusunda karar vererek maalesef bootcamp başında karar verdiğimiz akıllı çöp kutusu fikrini değiştirmek zorunda kaldım ve todo uygulaması yapmaya karar verdim.
 ![4b89e327-1fc2-4854-a816-2f5153f474e9](https://github.com/merweplt/AkilliCopKutusuUygulamasi/assets/134939764/c4d00b1d-c001-4449-a139-f0581c79fc70)
 ![ea51e690-d666-49e8-9a2a-6d341c707dcc](https://github.com/merweplt/AkilliCopKutusuUygulamasi/assets/134939764/32f19b1c-086a-45a4-ac18-50f0706fcf8d)
